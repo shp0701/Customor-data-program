@@ -13,7 +13,7 @@
 ## Periods of Development
 2022-10-07 ~ 2022-10-11
 
-## Description
+## Run Main
 ![01](https://user-images.githubusercontent.com/115531871/196508969-8eb593ef-6dad-4279-93a6-3d3392c2921d.png)
 ![01입력](https://user-images.githubusercontent.com/115531871/196500841-bb4ef9ae-7645-4d0e-9547-4ba0169810f2.PNG)
 
